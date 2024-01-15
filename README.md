@@ -25,19 +25,21 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **LaTeX, Ruby**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PaaavelZ?tab=repositories](https://github.com/PaaavelZ?tab=repositories)
+- 👨‍💻 All of my projects are available at [link](https://github.com/PaaavelZ?tab=repositories)
 
 - 💬 Ask me about **Java and Clean Code**
 
 - 📫 How to reach me **paaavel.2024@gmail.com**
 
-- 📄 Know about my experiences [https://disk.yandex.ru/i/8PVR2PZegHJaBA](https://disk.yandex.ru/i/8PVR2PZegHJaBA)
+- 📄 Know about my experiences in [CV](https://disk.yandex.ru/i/8PVR2PZegHJaBA)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pavel-kovalenko-98b669253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavel-kovalenko-98b669253" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/paaavelz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="paaavelz" height="30" width="40" /></a>
 <a href="https://discord.gg/852882469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="852882469" height="30" width="40" /></a>
+</p>
+<a href="https://t.me/PaaavelZ" target="blank"><img align="center" src="https://github.com/PaaavelZ/PaaavelZ/blob/main/telegram_logo.svg" alt="PaaavelZ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
