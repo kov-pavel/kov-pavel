@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **paaavel.2024@gmail.com**
 
-- 📄 Know about my experiences in [CV](https://disk.yandex.ru/i/8PVR2PZegHJaBA)
+- 📄 Know about my experiences in [CV](https://github.com/PaaavelZ/PaaavelZ/blob/main/PavelKovalenkoCV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
