@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Java and Clean Code**
 
-- 📫 How to reach me **paaavel.2024@gmail.com**
+- 📫 How to reach me - [email](paaavel.2024@gmail.com)
 
 - 📄 Know about my experiences in CV ([EN](https://github.com/PaaavelZ/PaaavelZ/blob/main/PavelKovalenkoCV-EN.pdf), [RU](https://github.com/PaaavelZ/PaaavelZ/blob/main/PavelKovalenkoCV-RU.pdf))
 
