@@ -5,12 +5,13 @@
 
 \documentclass[11pt]{article}
 
-\usepackage[T1]{fontenc}
-\usepackage{inter} % https://tug.org/FontCatalogue/
-%\renewcommand*\familydefault{\sfdefault}
+%\usepackage{helvet} % ADD HELVET BUT REMOVE HIGHLIGHTNING!!!
+\renewcommand*\familydefault{\sfdefault}
+\usepackage[T1, T2A]{fontenc}
+%\usepackage{inter} % https://tug.org/FontCatalogue/
 
 \usepackage[utf8]{inputenc}
-\usepackage[english, russian,]{babel} % ru lang
+\usepackage[english, russian]{babel} % ru lang
 
 \usepackage{verbatim} % comments
 
@@ -24,7 +25,7 @@ right=2.5cm
 }
 
 \setcounter{secnumdepth}{0} % remove section numbering
-\pdfgentounicode=1 % make ATS friendly
+%\pdfgentounicode=1 % make ATS friendly
 
 \usepackage{enumitem}
 \setlist[itemize]{
@@ -34,6 +35,7 @@ right=2.5cm
 \setlist[description]{itemsep=0pt}
 \setlist[enumerate]{align=left}
 
+% PAINTS
 \usepackage[dvipsnames]{xcolor}
 % \usepackage[dvipsnames, svgnames, x11names]{xcolor} 
 % \usepackage[dvipsnames]{xcolor} % xcolor.pdf Sec.4 Colors by Name
@@ -41,7 +43,7 @@ right=2.5cm
 % \colorlet [⟨type⟩]{⟨name⟩}[⟨num model⟩]{⟨color ⟩}
 % \definecolor[⟨type⟩]{⟨name⟩}{⟨model-list⟩}{⟨spec-list⟩}
 
-
+% PARTIOTIONING & SPACING
 \usepackage{titlesec}
 % \titlespacing{command}{left spacing}{before spacing}{after spacing}[right]
 % \titlespacing{\section}{0pt}{*3}{*1}
@@ -49,15 +51,17 @@ right=2.5cm
 \titlespacing{\subsubsection}{0pt}{*0}{*0}
 % \titleformat{<command>}[<shape>]{<format>}{<label>}{<sec>}{<before-code>}[<after-code>]  
 %\titleformat{\section}{\color{Sepia}\large\fontseries{black}\selectfont\uppercase}{}{}{\ruleafter}[\global\RemVStrue] % A PROBLEM!
-\usepackage[koi8-r]{inputenc}
+%\usepackage[koi8-r]{inputenc}
 \titleformat{\section}{\color{Sepia}\large\fontseries{black}\selectfont\uppercase}{}{}{\ruleafter}[\global\RemVStrue]
 \titleformat{\subsection}{\large\fontseries{semibold}\selectfont}{}{}{\rvs}
 \titleformat{\subsubsection}{\large\fontseries{medium}\selectfont}{}{}{}
 
+% HORIZONTAL LINE AFTER EACH TITLE
 \usepackage{xhfill} 
 \newcommand\ruleafter[1]{#1~\xrfill[.5ex]{1pt}[gray]} % add rule after title in .5 x-height 
 
-\newif\ifRemVS % remove vspace between \section & \subsection
+% REMOVE VSPACE BETWEEN \section & \subsection
+\newif\ifRemVS
 \newcommand{\rvs}{
     \ifRemVS
         \vspace{-1.5ex}
@@ -65,9 +69,10 @@ right=2.5cm
     \global\RemVSfalse
 }
 
-
+% ICONS
 \usepackage{fontawesome5}
 
+% DOC BROWSER TITLE
 \usepackage[bookmarks=false]{hyperref} % [imp!]
 \hypersetup{ % https://en.wikibooks.org/wiki/LaTeX/Hyperlinks
     colorlinks=true,
@@ -75,6 +80,7 @@ right=2.5cm
     pdftitle={Павел Коваленко Резюме},
 }
 
+% PAGE NUMBER AT THE BOTTOM OF DOC
 \usepackage[page]{totalcount}
 \usepackage{fancyhdr}
 \pagestyle{fancy}
@@ -86,11 +92,11 @@ right=2.5cm
 
 %== HEADER ==%
 \begin{center}
-    {\fontsize{36}{36}\selectfont\interthin ПАВЕЛ \interheavy КОВАЛЕНКО} \\ \bigskip
-    {\fontsize{25}{25}\selectfont\interthin Junior Java Software Developer} \\ \bigskip
-    {\color{icnclr}\faEnvelope[regular]} \href{mailto:paaavel.2024@gmail.com}{paaavel.2024@gmail.com} $|$ 
-    {\color{icnclr}\faIcon{mobile-alt}} 89002890589 $|$
-    {\color{icnclr}\faGithub} \href{https://github.com/PaaavelZ}{PaaavelZ} $|$
+    {\fontsize{36}{36}\selectfont ПАВЕЛ КОВАЛЕНКО} \\ \bigskip
+    {\fontsize{25}{25}\selectfont Junior Java Software Developer} \\ \bigskip
+    {\color{icnclr}\faEnvelope[email]} \href{mailto:paaavel.2024@gmail.com}{kovalenkopavelb@gmail.com} $|$ 
+    {\color{icnclr}\faIcon{mobile-alt}} 89214332531 $|$
+    {\color{icnclr}\faGithub} \href{https://github.com/kovpavel}{kovpavel} $|$
     {\color{icnclr}\faMapMarker} Санкт-Петербург
 \end{center}
 
