@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paaavelz&label=Profile%20views&color=0e75b6&style=flat" alt="paaavelz" /> </p>
 
-- 🔭 I’m currently working on **One of the Cassandra tasks**
+- 🔭 I’m currently working on **One of the [Cassandra](https://github.com/apache/cassandra) tasks**
 
 - 🌱 I’m currently learning **LaTeX, Ruby**
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Java and Clean Code**
 
-- 📫 How to reach me - [email](kovalenkopavelb@gmail.com)
+- 📫 How to reach me - [email](kovalenkopavelb@gmail.com), [Telegram](https://t.me/kovpavelwork)
 
 - 📄 Know about my experiences in CV ([EN](https://github.com/PaaavelZ/PaaavelZ/blob/main/PavelKovalenkoCV-EN.pdf), [RU](https://github.com/PaaavelZ/PaaavelZ/blob/main/PavelKovalenkoCV-RU.pdf))
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <a href="https://www.leetcode.com/paaavelz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="paaavelz" height="30" width="40" /></a>
 <a href="https://discord.gg/852882469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="852882469" height="30" width="40" /></a>
 </p>
-<a href="https://t.me/PaaavelZ" target="blank"><img align="center" src="https://github.com/PaaavelZ/PaaavelZ/blob/main/telegram_logo.svg" alt="PaaavelZ" height="30" width="40" /></a>
+<a href="https://t.me/kovpavelwork" target="blank"><img align="center" src="https://github.com/PaaavelZ/PaaavelZ/blob/main/telegram_logo.svg" alt="PaaavelZ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
