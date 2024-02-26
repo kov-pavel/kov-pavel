@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **One of the [Cassandra](https://github.com/apache/cassandra) tasks**
 
-- 🌱 I’m currently learning **LaTeX, Ruby**
+- 🌱 I’m currently learning **LaTeX, D2**
 
 - 👨‍💻 All of my projects are available at [link](https://github.com/PaaavelZ?tab=repositories)
 
